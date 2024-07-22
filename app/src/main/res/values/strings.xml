@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WisataSemarang</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_list_wisata">ListWisataActivity</string>
+    <string name="title_activity_detail_wisata">DetailWisataActivity</string>
+    <string name="title_activity_wisata_data">WisataData</string>
+</resources>
