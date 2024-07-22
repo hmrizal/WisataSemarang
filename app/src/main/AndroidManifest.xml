@@ -22,11 +22,6 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".WisataData"
-            android:exported="false"
-            android:label="@string/title_activity_wisata_data"
-            android:theme="@style/Theme.WisataSemarang" />
-        <activity
             android:name=".DetailWisataActivity"
             android:exported="false"
             android:label="@string/title_activity_detail_wisata"
